@@ -1,0 +1,9 @@
+# CareerGPT - External Python Dependencies
+# Core Streamlit Web Application Framework
+streamlit>=1.35.0,<=1.65.0
+
+# PDF Text Extraction for Resume Analyzer & ATS Scanner
+pypdf>=5.0.0,<=6.14.2
+
+# Environment Variable Configuration & .env Management
+python-dotenv>=1.0.0,<=1.0.1
